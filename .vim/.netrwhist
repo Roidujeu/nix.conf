@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =1
+let g:netrw_dirhist_1='/home/roidujeu/.sourceCodes.d/vim-master'
+let g:netrw_dirhist_0='/home/roidujeu/.sourceCodes.d/st'
+let g:netrw_dirhist_9='/home/roidujeu/Stuff/College_Stuff/DSC_Stuff/EASy'
+let g:netrw_dirhist_8='/home/roidujeu/Stuff/Coding_Stuff/C/Huffman'
+let g:netrw_dirhist_7='/home/roidujeu/.sourceCodes.d/vim-master/src'
+let g:netrw_dirhist_6='/home/roidujeu/.sourceCodes.d/st'
+let g:netrw_dirhist_5='/home/roidujeu/Stuff/College_Stuff/DSC_Stuff/cursesText'
+let g:netrw_dirhist_4='/home/roidujeu/output'
+let g:netrw_dirhist_3='/home/roidujeu/Stuff/Movies/Roma'
+let g:netrw_dirhist_2='/home/roidujeu/ttf-mswin10-arch'

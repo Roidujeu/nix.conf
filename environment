@@ -1,0 +1,21 @@
+#
+# This file is parsed by pam_env module
+#
+# Syntax: simple "KEY=VAL" pairs on separate lines
+#
+ANDROID_HOME=/home/roidujeu/.Android/Sdk
+XDG_CONFIG_HOME=/home/roidujeu/.config
+LANG=en_US.UTF-8
+PAGER=less
+EDITOR=vim
+NNN_FALLBACK_OPENER=xdg-open
+NNN_OPENER=mimeopen
+_JAVA_AWT_WM_NONREPARENTING=1
+NNN_DE_FILE_MANAGER=thunar
+NNN_COPIER="$HOME/.config/nnn/copier.sh"
+NNN_USE_EDITOR=1
+NNN_COLORS='3214'
+PYTHONPATH=$PYTHONPATH:$(pwd)
+CONAN_COMPILER=gcc
+CONAN_COMPILER_VERSION=9.2
+CONAN_DIR=/home/roidujeu/.conan/
